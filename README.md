@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
