@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 ## Two Pointers
 |  |
@@ -79,4 +80,8 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
