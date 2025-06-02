@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [3201-distribute-candies-among-children-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
