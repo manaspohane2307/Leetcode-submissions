@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [3201-distribute-candies-among-children-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -76,5 +77,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
