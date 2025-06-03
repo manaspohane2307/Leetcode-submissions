@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0135-candy](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
