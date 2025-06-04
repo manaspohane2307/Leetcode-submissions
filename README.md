@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [3201-distribute-candies-among-children-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -86,6 +87,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
