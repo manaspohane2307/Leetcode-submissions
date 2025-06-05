@@ -173,4 +173,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
