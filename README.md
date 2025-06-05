@@ -35,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Matrix
 |  |
 | ------- |
