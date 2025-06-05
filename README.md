@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0198-house-robber) |
