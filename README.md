@@ -275,6 +275,7 @@
 | [0610-triangle-judgement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0627-swap-salary) |
 ## Trie
 |  |
 | ------- |
