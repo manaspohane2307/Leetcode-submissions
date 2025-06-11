@@ -101,6 +101,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -136,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0155-min-stack) |
@@ -157,6 +159,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -178,6 +181,7 @@
 | [0101-symmetric-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -205,6 +209,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
