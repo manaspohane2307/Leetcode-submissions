@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT c.name
-FROM Customer c
-where c.referee_id <> 2 OR
-c.referee_id IS NULL;
+
+SELECT name
+FROM Customer
+WHERE IFNULL(referee_id,0) <> 2
