@@ -23,6 +23,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
