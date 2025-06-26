@@ -55,6 +55,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -391,4 +392,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
