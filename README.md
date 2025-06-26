@@ -56,6 +56,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -75,6 +76,7 @@
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0213-house-robber-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Database
 |  |
 | ------- |
