@@ -23,6 +23,7 @@
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -229,6 +230,7 @@
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -286,6 +288,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
@@ -300,6 +303,7 @@
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +312,7 @@
 | [0542-01-matrix](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 ## Memoization
 |  |
 | ------- |
