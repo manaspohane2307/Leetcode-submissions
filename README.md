@@ -230,6 +230,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
@@ -288,6 +289,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Union Find
 |  |
@@ -305,6 +308,7 @@
 | [0130-surrounded-regions](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 ## Matrix
