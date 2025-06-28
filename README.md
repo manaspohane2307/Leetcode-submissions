@@ -20,6 +20,7 @@
 | [0213-house-robber-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0890-lemonade-change) |
@@ -117,6 +118,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
