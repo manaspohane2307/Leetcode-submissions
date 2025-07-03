@@ -30,6 +30,7 @@
 | [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1646-kth-missing-positive-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
 |  |
@@ -120,6 +121,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1646-kth-missing-positive-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
