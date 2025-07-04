@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,6 +43,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -85,6 +87,7 @@
 | [0045-jump-game-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -120,6 +123,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -145,6 +149,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
