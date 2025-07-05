@@ -36,6 +36,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2737-row-with-maximum-ones](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2737-row-with-maximum-ones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -350,6 +351,7 @@
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
+| [2737-row-with-maximum-ones](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2737-row-with-maximum-ones) |
 ## Memoization
 |  |
 | ------- |
