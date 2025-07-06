@@ -37,6 +37,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2737-row-with-maximum-ones) |
@@ -63,6 +64,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -194,6 +196,7 @@
 | [0155-min-stack](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Tree
 |  |
 | ------- |
