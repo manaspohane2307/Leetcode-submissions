@@ -28,6 +28,7 @@
 | [0542-01-matrix](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -63,6 +65,7 @@
 | [0127-word-ladder](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
