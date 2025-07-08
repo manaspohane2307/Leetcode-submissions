@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -63,6 +64,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +82,7 @@
 | [0127-word-ladder](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
