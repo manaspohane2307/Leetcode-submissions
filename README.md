@@ -54,6 +54,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -77,6 +78,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -93,6 +95,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
