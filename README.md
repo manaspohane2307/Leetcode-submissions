@@ -34,6 +34,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1073-number-of-enclaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -52,6 +53,7 @@
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -59,6 +61,7 @@
 | [0410-split-array-largest-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -73,6 +76,7 @@
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -127,6 +131,7 @@
 | [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
