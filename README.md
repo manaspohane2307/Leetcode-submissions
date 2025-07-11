@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0127-word-ladder) |
@@ -92,6 +94,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
