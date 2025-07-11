@@ -30,6 +30,7 @@
 | [0890-lemonade-change](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -52,6 +53,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +79,7 @@
 | [0940-fruit-into-baskets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -464,6 +467,7 @@
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search Tree
