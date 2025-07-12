@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -199,11 +200,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
