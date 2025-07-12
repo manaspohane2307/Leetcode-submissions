@@ -16,6 +16,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0200-number-of-islands) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
