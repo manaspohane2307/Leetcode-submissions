@@ -106,6 +106,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3396-valid-word](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3396-valid-word) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/manaspohane2307/Leetcode-submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
