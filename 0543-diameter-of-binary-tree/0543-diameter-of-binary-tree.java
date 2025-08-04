@@ -14,19 +14,18 @@
  * }
  */
 class Solution {
-    int diameter = 0;//passed as global variable
-    int height(TreeNode root){
+    int maxd;
+    public int diameterOfBinaryTree(TreeNode root) {
+        diameter(root);
+        return maxd; 
+    }
+    int diameter(TreeNode root){
         if(root==null){
             return 0;
         }
-        int lh = height(root.left);
-        int rh = height(root.right);
-        diameter = Math.max(diameter,lh+rh);//update diameter
-        return 1+Math.max(lh,rh);
+        int leftH = diameter(root.left);
+        int rightH = diameter(root.right);
+        maxd = Math.max(maxd, leftH+rightH);
+        return 1 + Math.max(leftH, rightH);
     }
-    public int diameterOfBinaryTree(TreeNode root) {
-        height(root);
-        return diameter;
-    }
-    
 }
