@@ -20,21 +20,21 @@ class Solution {
             return ans;
         }
         Queue<TreeNode> q = new LinkedList<>();
-        boolean leftToRight=true;
         q.add(root);
+        boolean flag=true;
         while(!q.isEmpty()){
             int size = q.size();
-            List<Integer> level = new ArrayList<>(Collections.nCopies(size,0));//initialize entire arraylist with 0
+            List<Integer> level = new ArrayList<>(Collections.nCopies(size,0));
             for(int i=0;i<size;i++){
-                TreeNode temp = q.remove();
+                TreeNode temp = q.poll();
                 int index=0;
-                if(leftToRight==true){
-                    index=i;
+                if(flag==true){
+                    index = i; 
                 }
                 else{
                     index = size-i-1;
                 }
-                level.set(index,temp.val);
+                level.set(index, temp.val);
                 if(temp.left != null){
                     q.add(temp.left);
                 }
@@ -43,7 +43,7 @@ class Solution {
                 }
             }
             ans.add(level);
-            leftToRight = !leftToRight;
+            flag = !flag;
         }
         return ans;
     }
