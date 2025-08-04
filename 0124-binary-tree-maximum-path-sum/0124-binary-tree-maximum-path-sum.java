@@ -14,19 +14,18 @@
  * }
  */
 class Solution {
+    int maxsum = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        int[] maxsum = new int[1];
-        maxsum[0] = Integer.MIN_VALUE;
-        int ans = maxSumDown(root, maxsum);
-        return maxsum[0];
+        maxPath(root);
+        return maxsum;
     }
-    int maxSumDown(TreeNode root, int[] maxsum){
+    int maxPath(TreeNode root){
         if(root==null){
             return 0;
         }
-        int leftsum = Math.max(0,maxSumDown(root.left,maxsum));
-        int rightsum = Math.max(0,maxSumDown(root.right,maxsum));
-        maxsum[0] = Math.max(maxsum[0], leftsum + rightsum + root.val);
-        return Math.max(leftsum,rightsum)+root.val;
+        int leftSum = Math.max(0, maxPath(root.left));
+        int rightSum = Math.max(0, maxPath(root.right));
+        maxsum = Math.max(maxsum, leftSum + rightSum + root.val);
+        return Math.max(leftSum, rightSum) + root.val;
     }
 }
